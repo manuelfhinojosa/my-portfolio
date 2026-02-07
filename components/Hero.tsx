@@ -16,7 +16,7 @@ export default function Hero() {
         </div>
         <div className="md:w-1/2 flex">
           <Image
-            src="/images/PXL_20250521_015333124.MP.jpg"
+            src="/images/ProfilePicture.jpg"
             width={192}
             height={192}
             alt="Hero Image"
