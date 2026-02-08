@@ -5,12 +5,12 @@ export default function Hero() {
       <div className="flex flex-col md:flex-row gap-12 items-center">
         <div className="max-w-7xl mx-auto px-6">
           <h1 className="text-5xl font-bold">Manuel Hinojosa</h1>
-          <p className="mt-6 text-xl text-gray-600 max-w-xl">
+          <p className="mt-6 text-xl text-gray-300 max-w-xl">
             {" "}
             Software Engineer — Committed to building secure and scalable
             systems.
           </p>
-          <p className="mt-6 text-xl text-gray-600 max-w-xl">
+          <p className="mt-6 text-xl text-gray-300 max-w-xl">
             Python • TypeScript • Backend • Full Stack • AI-ready
           </p>
         </div>
